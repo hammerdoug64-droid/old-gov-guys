@@ -1,0 +1,18 @@
+{
+  "name": "Old Government Guys",
+  "short_name": "Old Gov Guys",
+  "description": "Browse, listen, and track watched episodes of the Old Government Guys podcast.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
